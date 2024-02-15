@@ -14,5 +14,13 @@ src: ./pages/02-about-course.md
 ---
 
 ---
+src: ./pages/03-git-short-definition.md
+---
+
+---
+src: ./pages/04-vcs-power-conflicts.md
+---
+
+---
 src: ./pages/99-debug.md
 ---
