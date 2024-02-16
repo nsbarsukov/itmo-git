@@ -34,5 +34,13 @@ src: ./pages/07-vcs-powers-summary.md
 ---
 
 ---
+src: ./pages/08-repository-definition.md
+---
+
+---
+src: ./pages/09-vcs-generations-local.md
+---
+
+---
 src: ./pages/99-debug.md
 ---
