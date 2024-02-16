@@ -54,5 +54,9 @@ src: ./pages/12-git-full-official-definition.md
 ---
 
 ---
+src: ./pages/13-git-name-origination.md
+---
+
+---
 src: ./pages/99-debug.md
 ---
