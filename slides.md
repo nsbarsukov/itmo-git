@@ -98,5 +98,9 @@ src: ./pages/24-check-git-installed.md
 ---
 
 ---
+src: ./pages/25-git-global-configs.md
+---
+
+---
 src: ./pages/99-debug.md
 ---
