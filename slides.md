@@ -22,5 +22,9 @@ src: ./pages/04-vcs-power-conflicts.md
 ---
 
 ---
+src: ./pages/05-vcs-power-history-diff.md
+---
+
+---
 src: ./pages/99-debug.md
 ---
