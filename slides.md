@@ -74,5 +74,9 @@ src: ./pages/18-revision-definition.md
 ---
 
 ---
+src: ./pages/19-commit-definition.md
+---
+
+---
 src: ./pages/99-debug.md
 ---
