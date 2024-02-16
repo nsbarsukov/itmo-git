@@ -66,5 +66,9 @@ src: ./pages/16-delta-based-vcs.md
 ---
 
 ---
+src: ./pages/17-snapshot-based-vcs.md
+---
+
+---
 src: ./pages/99-debug.md
 ---
