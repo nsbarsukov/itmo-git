@@ -102,5 +102,9 @@ src: ./pages/25-git-global-configs.md
 ---
 
 ---
+src: ./pages/26-git-init.md
+---
+
+---
 src: ./pages/99-debug.md
 ---
