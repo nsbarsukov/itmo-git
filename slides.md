@@ -70,5 +70,9 @@ src: ./pages/17-snapshot-based-vcs.md
 ---
 
 ---
+src: ./pages/18-revision-definition.md
+---
+
+---
 src: ./pages/99-debug.md
 ---
