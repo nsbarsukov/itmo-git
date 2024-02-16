@@ -62,5 +62,9 @@ src: ./pages/15-linus-torvalds-citation.md
 ---
 
 ---
+src: ./pages/16-delta-based-vcs.md
+---
+
+---
 src: ./pages/99-debug.md
 ---
