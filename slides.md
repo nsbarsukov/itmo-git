@@ -86,5 +86,9 @@ src: ./pages/21-repository-hosting-services.md
 ---
 
 ---
+src: ./pages/22-console-vs-ide.md
+---
+
+---
 src: ./pages/99-debug.md
 ---
