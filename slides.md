@@ -42,5 +42,9 @@ src: ./pages/09-vcs-generations-local.md
 ---
 
 ---
+src: ./pages/10-vcs-generations-centralized.md
+---
+
+---
 src: ./pages/99-debug.md
 ---
