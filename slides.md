@@ -58,5 +58,9 @@ src: ./pages/14-git-name-origination.md
 ---
 
 ---
+src: ./pages/15-linus-torvalds-citation.md
+---
+
+---
 src: ./pages/99-debug.md
 ---
