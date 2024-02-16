@@ -94,5 +94,9 @@ src: ./pages/23-git-ide-example.md
 ---
 
 ---
+src: ./pages/24-check-git-installed.md
+---
+
+---
 src: ./pages/99-debug.md
 ---
