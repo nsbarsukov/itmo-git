@@ -106,5 +106,9 @@ src: ./pages/26-git-init.md
 ---
 
 ---
+src: ./pages/27-git-status.md
+---
+
+---
 src: ./pages/99-debug.md
 ---
