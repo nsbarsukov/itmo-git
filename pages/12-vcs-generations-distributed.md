@@ -9,7 +9,7 @@ layout: default
 
 <style>
 img {
-    max-height: 70%;
+    max-height: 80%;
     margin: auto;
 }
 </style>
