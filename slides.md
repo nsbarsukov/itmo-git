@@ -90,5 +90,9 @@ src: ./pages/22-console-vs-ide.md
 ---
 
 ---
+src: ./pages/23-git-ide-example.md
+---
+
+---
 src: ./pages/99-debug.md
 ---
