@@ -78,5 +78,9 @@ src: ./pages/19-commit-definition.md
 ---
 
 ---
+src: ./pages/20-checkout-definition.md
+---
+
+---
 src: ./pages/99-debug.md
 ---
