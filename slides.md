@@ -114,5 +114,9 @@ src: ./pages/28-git-status-untracked-file.md
 ---
 
 ---
+src: ./pages/29-git-file-3-states.md
+---
+
+---
 src: ./pages/99-debug.md
 ---
