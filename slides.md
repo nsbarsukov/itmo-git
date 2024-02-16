@@ -46,5 +46,9 @@ src: ./pages/10-vcs-generations-centralized.md
 ---
 
 ---
+src: ./pages/11-vcs-generations-distributed.md
+---
+
+---
 src: ./pages/99-debug.md
 ---

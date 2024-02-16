@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Поколения VCS
-Локальные
+**Локальные**
 
 <img src="public/images/local-vcs.png">
 

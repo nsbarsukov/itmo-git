@@ -3,9 +3,9 @@ layout: default
 ---
 
 # Поколения VCS
-**Централизованные**
+**Распределенные**
 
-<img src="public/images/centralized-vcs.png">
+<img src="public/images/distributed-vcs.png">
 
 <style>
 img {
