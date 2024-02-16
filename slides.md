@@ -50,5 +50,9 @@ src: ./pages/11-vcs-generations-distributed.md
 ---
 
 ---
+src: ./pages/12-git-full-official-definition.md
+---
+
+---
 src: ./pages/99-debug.md
 ---
