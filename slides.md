@@ -26,5 +26,9 @@ src: ./pages/05-vcs-power-history-diff.md
 ---
 
 ---
+src: ./pages/06-vcs-power-revert-changes.md
+---
+
+---
 src: ./pages/99-debug.md
 ---
