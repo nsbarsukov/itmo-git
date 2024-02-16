@@ -30,5 +30,9 @@ src: ./pages/06-vcs-power-revert-changes.md
 ---
 
 ---
+src: ./pages/07-vcs-powers-summary.md
+---
+
+---
 src: ./pages/99-debug.md
 ---
