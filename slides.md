@@ -118,5 +118,5 @@ src: ./pages/29-git-file-3-states.md
 ---
 
 ---
-src: ./pages/99-debug.md
+src: ./pages/30-git-pencil-scratch-final.md
 ---
