@@ -4,7 +4,7 @@ layout: default
 
 # Snapshot-based VCS
 
-<img src="public/images/snapshot-based-vcs.png">
+<img src="/images/snapshot-based-vcs.png">
 
 <style>
 img {

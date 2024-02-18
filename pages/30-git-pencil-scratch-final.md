@@ -1,4 +1,4 @@
 ---
 layout: image
-image: public/images/git-final-slide.png
+image: /images/git-final-slide.png
 ---

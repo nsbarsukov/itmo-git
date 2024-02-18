@@ -6,16 +6,16 @@ layout: two-cols
 
 <br />
 
-<img src="public/images/terminal.svg" />
+<img src="/images/terminal.svg" />
 
 ::right::
 
 <h1> </h1>
 
 <span class="logos">
-    <img src="public/logos/webstorm.svg">
-    <img src="public/logos/vscode.svg">
-    <img src="public/logos/jetbrains.svg">
+    <img src="/logos/webstorm.svg">
+    <img src="/logos/vscode.svg">
+    <img src="/logos/jetbrains.svg">
 </span>
 
 <style>

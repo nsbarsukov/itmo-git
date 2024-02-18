@@ -1,6 +1,6 @@
 ---
 layout: image
-image: public/logos/git.svg
+image: /logos/git.svg
 backgroundSize: auto
 class: host
 ---

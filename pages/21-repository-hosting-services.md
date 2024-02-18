@@ -8,9 +8,9 @@ layout: default
 <br />
 
 <span class="logos">
-    <img src="public/logos/github.svg">
-    <img src="public/logos/gitlab.svg">
-    <img src="public/logos/bitbucket.svg">
+    <img src="/logos/github.svg">
+    <img src="/logos/gitlab.svg">
+    <img src="/logos/bitbucket.svg">
 </span>
 
 <style>

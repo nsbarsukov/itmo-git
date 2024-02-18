@@ -5,7 +5,7 @@ layout: default
 # Поколения VCS
 **Распределенные**
 
-<img src="public/images/distributed-vcs.png">
+<img src="/images/distributed-vcs.png">
 
 <style>
 img {
