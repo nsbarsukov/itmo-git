@@ -2,7 +2,8 @@
   "name": "git-lectures",
   "private": true,
   "scripts": {
-    "build": "slidev build [0-9]*.md",
+    "build": "slidev build",
+    "build-all": "slidev build [0-9]*.md",
     "start": "ts-node index.ts",
     "export": "slidev export"
   },
