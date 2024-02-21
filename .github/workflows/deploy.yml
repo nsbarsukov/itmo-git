@@ -30,10 +30,10 @@ jobs:
         run: npm install
 
       - name: Build 1st
-        run: npm run build -- 01-vcs-intro.md --out=dist/01-vcs-intro --base=/itmo-git/01-vcs-intro
+        run: npm run build -- 01-vcs-intro.md --out=dist/01-vcs-intro --base=/itmo-git/01-vcs-intro/
 
       - name: Build 2nd
-        run: npm run build -- 02-git-branching.md --out=dist/02-git-branching --base=/itmo-git/02-git-branching
+        run: npm run build -- 02-git-branching.md --out=dist/02-git-branching --base=/itmo-git/02-git-branching/
 
       - uses: actions/configure-pages@v4
 
