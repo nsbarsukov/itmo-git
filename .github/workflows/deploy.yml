@@ -35,6 +35,9 @@ jobs:
       - name: Build 2nd
         run: npm run build -- 02-git-branching.md --out=dist/02-git-branching --base=/itmo-git/02-git-branching/
 
+      - name: Create root navigation file
+        run: cp index.html dist/index.html
+
       - uses: actions/configure-pages@v4
 
       - uses: actions/upload-pages-artifact@v3
