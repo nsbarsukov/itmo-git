@@ -35,6 +35,8 @@ jobs:
       - name: Build 2nd
         run: npm run build -- 02-git-branching.md --out=dist/02-git-branching --base=/itmo-git/02-git-branching
 
+      - uses: actions/configure-pages@v4
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
