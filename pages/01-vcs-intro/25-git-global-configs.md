@@ -5,7 +5,7 @@ class: host
 
 ```bash
 git config --global user.name "Nikita Barsukov"
-git config --global user.email nikita.s.barsukov@gmail.com
+git config --global user.email "nikita.s.barsukov@gmail.com"
 ```
 
 <style>

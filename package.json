@@ -1,19 +1,22 @@
 {
   "name": "git-lectures",
-  "type": "module",
   "private": true,
   "scripts": {
     "build": "slidev build",
-    "start": "slidev --open",
+    "start": "ts-node index.ts",
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "^0.48.0-beta.1",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
     "vue": "^3.4.19"
   },
   "devDependencies": {
-    "playwright-chromium": "^1.41.2"
+    "@slidev/cli": "^0.48.0-beta.1",
+    "@tsconfig/node18": "^18.2.2",
+    "@types/prompts": "^2.4.9",
+    "playwright-chromium": "^1.41.2",
+    "prompts": "^2.4.2",
+    "ts-node": "^10.9.2"
   }
 }
