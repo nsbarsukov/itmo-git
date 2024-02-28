@@ -2,6 +2,9 @@
 layout: full
 ---
 
+# Зачем нужны ветки в Git ?
+Причина 3: Релизные ветки
+
 ```mermaid
 %%{init: { 'gitGraph': {'mainBranchOrder': 1}} }%%
     gitGraph LR:
@@ -19,7 +22,7 @@ layout: full
        branch v17 order: 2
        commit id: "   "
        commit id: "    " tag: "v17.1.0"
-       commit id: "     "
+       commit id: "изменили прозрачность кнопок на 0.0001%"
        checkout main
        commit id: "       "
        commit id: "Релиз IOS 18.0.0" tag: "v18.0.0"

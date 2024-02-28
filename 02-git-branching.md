@@ -26,5 +26,9 @@ src: ./pages/02-git-branching/06-git-checkpoint.md
 ---
 
 ---
+src: ./pages/02-git-branching/07-release-branches.md
+---
+
+---
 src: ./pages/02-git-branching/99-debug.md
 ---
