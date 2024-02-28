@@ -6,5 +6,9 @@ src: ./pages/02-git-branching/01-cover.md
 ---
 
 ---
+src: ./pages/02-git-branching/02-memes.md
+---
+
+---
 src: ./pages/02-git-branching/99-debug.md
 ---
