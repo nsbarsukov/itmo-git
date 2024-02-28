@@ -34,5 +34,13 @@ src: ./pages/02-git-branching/08-branch-simplified-definition.md
 ---
 
 ---
+src: ./pages/02-git-branching/09-head-definition.md
+---
+
+---
+src: ./pages/02-git-branching/10-head-in-logs-example.md
+---
+
+---
 src: ./pages/02-git-branching/99-debug.md
 ---
