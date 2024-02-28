@@ -20,7 +20,7 @@ layout: full
        commit id: "fix #2"
        commit id: "      "
        branch v17 order: 2
-       commit id: "   "
+       commit id: "critical bug fix"
        commit id: "    " tag: "v17.1.0"
        commit id: "изменили прозрачность кнопок на 0.0001%"
        checkout main

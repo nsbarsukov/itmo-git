@@ -30,5 +30,9 @@ src: ./pages/02-git-branching/07-release-branches.md
 ---
 
 ---
+src: ./pages/02-git-branching/08-branch-simplified-definition.md
+---
+
+---
 src: ./pages/02-git-branching/99-debug.md
 ---
