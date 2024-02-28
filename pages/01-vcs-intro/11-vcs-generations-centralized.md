@@ -5,7 +5,7 @@ layout: default
 # Поколения VCS
 **Централизованные**
 
-<img src="/images/centralized-vcs.png">
+<img src="/images/01-vcs-intro/centralized-vcs.png">
 
 <style>
 img {

@@ -6,7 +6,7 @@ layout: two-cols
 
 <br />
 
-<img src="/images/terminal.svg" />
+<img src="/images/01-vcs-intro/terminal.svg" />
 
 ::right::
 

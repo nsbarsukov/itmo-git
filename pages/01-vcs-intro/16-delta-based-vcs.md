@@ -4,7 +4,7 @@ layout: default
 
 # Delta-based VCS
 
-<img src="/images/delta-based-vcs.png">
+<img src="/images/01-vcs-intro/delta-based-vcs.png">
 
 <style>
 img {

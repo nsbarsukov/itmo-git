@@ -1,5 +1,5 @@
 ---
 layout: image
-image: /images/git-ide-example.png
+image: /images/01-vcs-intro/git-ide-example.png
 backgroundSize: contain
 ---

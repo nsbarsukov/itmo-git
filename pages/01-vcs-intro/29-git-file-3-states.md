@@ -6,7 +6,7 @@ layout: default
 
 <br />
 
-<img src="/images/git-file-3-states.png">
+<img src="/images/01-vcs-intro/git-file-3-states.png">
 
 <style>
 img {

@@ -1,4 +1,4 @@
 ---
 layout: image
-image: /images/git-final-slide.png
+image: /images/01-vcs-intro/git-final-slide.png
 ---

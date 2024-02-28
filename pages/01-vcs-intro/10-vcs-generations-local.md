@@ -5,7 +5,7 @@ layout: default
 # Поколения VCS
 **Локальные**
 
-<img src="/images/local-vcs.png">
+<img src="/images/01-vcs-intro/local-vcs.png">
 
 <style>
 img {
