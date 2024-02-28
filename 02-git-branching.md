@@ -22,5 +22,9 @@ src: ./pages/02-git-branching/05-parallel-development.md
 ---
 
 ---
+src: ./pages/02-git-branching/06-git-checkpoint.md
+---
+
+---
 src: ./pages/02-git-branching/99-debug.md
 ---
