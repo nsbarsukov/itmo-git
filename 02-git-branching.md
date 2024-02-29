@@ -78,5 +78,9 @@ src: ./pages/02-git-branching/19-git-switch-6.md
 ---
 
 ---
+src: ./pages/02-git-branching/20-git-switch-flag-c.md
+---
+
+---
 src: ./pages/02-git-branching/99-debug.md
 ---
