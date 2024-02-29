@@ -114,5 +114,5 @@ src: ./pages/02-git-branching/28-git-rebase-demo-2.md
 ---
 
 ---
-src: ./pages/02-git-branching/99-debug.md
+src: ./pages/02-git-branching/02-memes.md
 ---
