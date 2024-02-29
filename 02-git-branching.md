@@ -82,5 +82,9 @@ src: ./pages/02-git-branching/20-git-switch-flag-c.md
 ---
 
 ---
+src: ./pages/02-git-branching/21-git-checkout.md
+---
+
+---
 src: ./pages/02-git-branching/99-debug.md
 ---
