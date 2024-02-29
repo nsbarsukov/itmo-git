@@ -86,5 +86,9 @@ src: ./pages/02-git-branching/21-git-checkout.md
 ---
 
 ---
+src: ./pages/02-git-branching/22-merge-master-drake-meme.md
+---
+
+---
 src: ./pages/02-git-branching/99-debug.md
 ---
