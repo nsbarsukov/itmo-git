@@ -4,8 +4,8 @@ class: host
 ---
 
 ![](/images/02-git-branching/eddie-murphy-never-merge-meme.webp)
-![](/images/02-git-branching/force-push-meme.png)
 ![](/images/02-git-branching/random-git-commands-meme.webp)
+![](/images/02-git-branching/merge-conflicts-are-comming-meme.jpg)
 
 <style>
 .host p {
