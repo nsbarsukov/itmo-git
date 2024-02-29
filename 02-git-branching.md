@@ -90,5 +90,13 @@ src: ./pages/02-git-branching/22-merge-master-drake-meme.md
 ---
 
 ---
+src: ./pages/02-git-branching/23-fast-forward-merging.md
+---
+
+---
+src: ./pages/02-git-branching/24-three-way-merging.md
+---
+
+---
 src: ./pages/02-git-branching/99-debug.md
 ---
