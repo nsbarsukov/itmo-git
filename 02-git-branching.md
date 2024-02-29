@@ -98,5 +98,9 @@ src: ./pages/02-git-branching/24-three-way-merging.md
 ---
 
 ---
+src: ./pages/02-git-branching/25-git-merge.md
+---
+
+---
 src: ./pages/02-git-branching/99-debug.md
 ---
