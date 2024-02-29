@@ -102,5 +102,9 @@ src: ./pages/02-git-branching/25-git-merge.md
 ---
 
 ---
+src: ./pages/02-git-branching/26-retrieve-colleague-changes.md
+---
+
+---
 src: ./pages/02-git-branching/99-debug.md
 ---
