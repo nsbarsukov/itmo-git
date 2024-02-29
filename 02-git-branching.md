@@ -106,5 +106,13 @@ src: ./pages/02-git-branching/26-retrieve-colleague-changes.md
 ---
 
 ---
+src: ./pages/02-git-branching/27-git-rebase-demo-1.md
+---
+
+---
+src: ./pages/02-git-branching/28-git-rebase-demo-2.md
+---
+
+---
 src: ./pages/02-git-branching/99-debug.md
 ---
