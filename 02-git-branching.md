@@ -50,5 +50,33 @@ src: ./pages/02-git-branching/12-create-delete-branch.md
 ---
 
 ---
+src: ./pages/02-git-branching/13-git-switch-0.md
+---
+
+---
+src: ./pages/02-git-branching/14-git-switch-1.md
+---
+
+---
+src: ./pages/02-git-branching/15-git-switch-2.md
+---
+
+---
+src: ./pages/02-git-branching/16-git-switch-3.md
+---
+
+---
+src: ./pages/02-git-branching/17-git-switch-4.md
+---
+
+---
+src: ./pages/02-git-branching/18-git-switch-5.md
+---
+
+---
+src: ./pages/02-git-branching/19-git-switch-6.md
+---
+
+---
 src: ./pages/02-git-branching/99-debug.md
 ---
