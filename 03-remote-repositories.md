@@ -16,3 +16,7 @@ src: ./pages/03-remote-repositories/03-git-distributed-meme.md
 ---
 src: ./pages/03-remote-repositories/04-peer-to-peer-network.md
 ---
+
+---
+src: ./pages/03-remote-repositories/05-remote-repo-illustration.md
+---
