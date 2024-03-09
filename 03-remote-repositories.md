@@ -36,3 +36,7 @@ src: ./pages/03-remote-repositories/08-git-remote-rename-remove.md
 ---
 src: ./pages/03-remote-repositories/09-show-remote-branches.md
 ---
+
+---
+src: ./pages/03-remote-repositories/10-track-upstream-branch.md
+---
