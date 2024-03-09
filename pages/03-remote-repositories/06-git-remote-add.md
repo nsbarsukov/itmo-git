@@ -7,7 +7,7 @@ class: host
 
 <br/>
 
-### Формула
+### Синтаксис команды
 <p class="large">
 
 ```
@@ -18,7 +18,7 @@ git remote add <shortname> <url / path>
 
 <br />
 
-### Пример
+### Пример использования
 
 <p class="small">
 
@@ -31,6 +31,7 @@ git remote add origin https://github.com/taiga-family/taiga-ui.git
 <style>
     .host h3 {
         color: var(--slidev-theme-primary);
+        font-style: italic;
     }
     
     .host .large code {

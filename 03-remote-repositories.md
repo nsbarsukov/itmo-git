@@ -22,5 +22,9 @@ src: ./pages/03-remote-repositories/05-remote-repo-illustration.md
 ---
 
 ---
-src: ./pages/03-remote-repositories/06-git-remote-command.md
+src: ./pages/03-remote-repositories/06-git-remote-add.md
+---
+
+---
+src: ./pages/03-remote-repositories/07-git-remote-ls.md
 ---
