@@ -68,3 +68,7 @@ src: ./pages/03-remote-repositories/16-git-push.md
 ---
 src: ./pages/03-remote-repositories/17-git-push-life-hack.md
 ---
+
+---
+src: ./pages/03-remote-repositories/18-git-push-rejected.md
+---
