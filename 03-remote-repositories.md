@@ -28,3 +28,11 @@ src: ./pages/03-remote-repositories/06-git-remote-add.md
 ---
 src: ./pages/03-remote-repositories/07-git-remote-ls.md
 ---
+
+---
+src: ./pages/03-remote-repositories/08-git-remote-rename-remove.md
+---
+
+---
+src: ./pages/03-remote-repositories/09-show-remote-branches.md
+---
