@@ -92,3 +92,7 @@ src: ./pages/03-remote-repositories/22-where-remote-repo-link.md
 ---
 src: ./pages/03-remote-repositories/23-github-sign-up.md
 ---
+
+---
+src: ./pages/03-remote-repositories/24-sync-git-email.md
+---
