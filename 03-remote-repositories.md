@@ -56,3 +56,7 @@ src: ./pages/03-remote-repositories/13-git-fetch-expain-1.md
 ---
 src: ./pages/03-remote-repositories/14-git-fetch-expain-2.md
 ---
+
+---
+src: ./pages/03-remote-repositories/15-git-pull.md
+---
