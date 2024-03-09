@@ -44,3 +44,15 @@ src: ./pages/03-remote-repositories/10-track-upstream-branch.md
 ---
 src: ./pages/03-remote-repositories/11-git-switch-remote-branch.md
 ---
+
+---
+src: ./pages/03-remote-repositories/12-git-fetch-expain-0.md
+---
+
+---
+src: ./pages/03-remote-repositories/13-git-fetch-expain-1.md
+---
+
+---
+src: ./pages/03-remote-repositories/14-git-fetch-expain-2.md
+---
