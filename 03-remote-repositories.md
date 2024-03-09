@@ -40,3 +40,7 @@ src: ./pages/03-remote-repositories/09-show-remote-branches.md
 ---
 src: ./pages/03-remote-repositories/10-track-upstream-branch.md
 ---
+
+---
+src: ./pages/03-remote-repositories/11-git-switch-remote-branch.md
+---
