@@ -3,27 +3,33 @@ layout: full
 class: host
 ---
 
-# Переименование удаленных репозиториев
+# Удаленные ветки
 
 ```shell
-git remote rename old-name new-name
+git remote add itmo [ссылка]
+git branch --remotes
 ```
 
-<br />
-<br />
-
-# Удаление удаленных репозиториев
+<p class="logs">
 
 ```shell
-git remote remove remote-name
+# itmo/HEAD -> itmo/main
+# itmo/gh-pages
+# itmo/main
+# itmo/v1
+# itmo/v2
+# itmo/mega-feature
+# itmo/hotfix
 ```
+
+</p>
 
 <style>
     .host code {
         font-size: 2rem;
     }
 
-    .host h1 {
-        margin-bottom: 1.5rem;
+    .host .logs code {
+        font-size: 1.25rem;
     }
 </style>
