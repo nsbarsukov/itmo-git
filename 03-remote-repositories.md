@@ -96,3 +96,7 @@ src: ./pages/03-remote-repositories/23-github-sign-up.md
 ---
 src: ./pages/03-remote-repositories/24-sync-git-email.md
 ---
+
+---
+src: ./pages/03-remote-repositories/25-create-pr-demo.md
+---
