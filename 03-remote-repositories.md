@@ -100,3 +100,7 @@ src: ./pages/03-remote-repositories/24-sync-git-email.md
 ---
 src: ./pages/03-remote-repositories/25-create-pr-demo.md
 ---
+
+---
+src: ./pages/03-remote-repositories/26-fork.md
+---
