@@ -1,5 +1,7 @@
 ---
 layout: image
-image: /images/03-remote-repositories/who-is-remote-repo-meme.png
-backgroundSize: auto
+image: /images/03-remote-repositories/who-is-remote-repo-meme.jpeg
+backgroundSize: contain
 ---
+
+Да кто такой
