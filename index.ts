@@ -8,14 +8,19 @@ prompt({
     message: 'Выберите презентацию:',
     choices: [
         {
-            title: '01-VCS Intro',
+            title: '01 – VCS Intro',
             description: 'Вводная лекция про системы контроля версий и чуть-чуть про Git',
             value: '01-vcs-intro.md'
         },
         {
-            title: '02-Git branching',
+            title: '02 – Git branching',
             description: 'Про ветвление в Git-е',
             value: '02-git-branching.md'
+        },
+        {
+            title: '03 – Remote repositories',
+            description: 'Про удаленные репозитории и работу с ними',
+            value: '03-remote-repositories.md'
         },
     ]
 }).then(({id}) => {
