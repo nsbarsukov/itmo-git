@@ -35,6 +35,9 @@ jobs:
       - name: Build 2nd
         run: npm run build -- 02-git-branching.md --out=dist/02-git-branching --base=/itmo-git/02-git-branching/
 
+      - name: Build 3d
+        run: npm run build -- 03-remote-repositories.md --out=dist/03-remote-repositories --base=/itmo-git/03-remote-repositories/
+
       - name: Create root navigation file
         run: cp index.html dist/index.html
 
