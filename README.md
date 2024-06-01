@@ -1,11 +1,57 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Курс "Введение в систему контроля версий Git"
 
-To start the slide show:
+Данный репозиторий содержит слайды лекций по данному курсу:
 
-- `npm install`
-- `npm run start`
-- visit http://localhost:3030
+1. [«Введение в VCS»](https://nsbarsukov.github.io/itmo-git/01-vcs-intro)
+2. [«Ветвление в Git»](https://nsbarsukov.github.io/itmo-git/02-git-branching)
+3. [«Удаленные репозитории»](https://nsbarsukov.github.io/itmo-git/03-remote-repositories)
 
-Edit the [slides.md](./01-vcs-intro) to see the changes.
+Данная серия лекций была рассказана мной в рамках дисциплины для студентов университета [ИТМО](https://itmo.ru).
 
-Learn more about Slidev on [documentations](https://sli.dev/).
+## Локальный запуск
+0. Установите [Node.js](https://nodejs.org) на ваш компьютер
+1. Склонируйте проект
+2. Установите зависимости
+    ```shell
+    npm ci
+    ```
+3. Запустите проект
+    ```shell
+    npm start
+    ```
+
+## Структура проекта
+Каждая презентация лекции базируется на технологии [Slidev](https://sli.dev).
+Данная коллекция библиотек позволяла мне с минимальными усилиями собирать готовые слайды,
+описывая их содержание через Markdown-файлы.
+
+Файловая структура репозитория следующая:
+```
+├── .github # Деплой презентаций на Github Pages
+│
+├── pages # Набор директорий с Markdown файлами (каждый из них – 1 слайд лекции)
+│   ├── 01-vcs-intro # Слайды лекции «Введение в VCS»
+│   │ 
+│   ├── 02-git-branching # Слайды лекции «Ветвление в Git»
+│   │
+|   └── 03-remote-repositories # Слайды лекции «Удаленные репозитории»
+│
+│   # медиа-файлы, используемые для слайдов
+├── public # пути до них можно найти внутри папки `pages/**/*.md`
+│   ├── images
+|   └── logos
+│
+├── 01-vcs-intro.md # Собирает все слайды из папки `pages/01-vcs-intro` в единую презентацию
+│
+├── 02-git-branching.md
+│
+└── 03-remote-repositories.md
+```
+
+## Спасибо
+При составлении курса я во многом опирался на структуру книги [«Pro Git»](https://git-scm.com/book)
+(авторы – Скотт Чакон и Бен Штрауб).
+
+Также из этой книги были взяты многие иллюстрации.
+
+Огромное спасибо авторам данной книги!
